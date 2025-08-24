@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠️ Languages and Tools
 
-#🔤 Programming Languages
+##🔤 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,go,c,cs,cpp,dart" />
 </p>
 
 # 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest" />
+  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest,vercel,windows" />
 </p>
 
 <div align="center">
