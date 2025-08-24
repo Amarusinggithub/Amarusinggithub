@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #🔤 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,go,c,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,go,c,cs,cpp,dart" />
 </p>
 
 # 🛠️ Tools & Technologies
