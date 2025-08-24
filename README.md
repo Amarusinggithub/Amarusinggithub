@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest,vercel,windows" />
+  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest,vercel,windows,androidstudio" />
 </p>
 
 <div align="center">
