@@ -18,11 +18,18 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools
 
-<br>
-
+#🔤 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,django,python,php,react,nextjs,mysql,postgres,prisma,flutter,flutter,kubernetes,cypress,redis,vit,vitest," />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma,ts,nginx,nextjs,npm,vue,mysql,go,dotnet,docker,aws,c,cs,cpp,laravel,visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,go,c,cs,cpp" />
 </p>
 
-<hr>
+# 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest" />
+</p>
+
+<div align="center">
+  
+  *Building robust applications with modern technologies*
+  
+</div>
