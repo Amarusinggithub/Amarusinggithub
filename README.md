@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,django,python,php,react,nextjs,mysql,postgres,prisma,flutter,flutter,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,git,postman,figma,ts,nginx,nextjs,npm,vue,mysql,go,dotnet,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,django,python,php,react,nextjs,mysql,postgres,prisma,flutter,flutter,kubernetes,cypress,redis,vit,vitest," />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma,ts,nginx,nextjs,npm,vue,mysql,go,dotnet,docker,aws,c,cs,cpp,laravel,visualstudio,vscode" />
 </p>
 
 <hr>
