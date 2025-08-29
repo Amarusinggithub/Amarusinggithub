@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
   <li> 📫 How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
   <li> 📄 Learn about my experiences on my <a href="https://github.com/Amarusinggithub/resume">resume</a></li>
+    <li> 🔭 I’m currently working on <a href="[https://adam-mcdaniel.github.io/blog/compiler-shell-text-editor-trifecta/](https://github.com/Amarusinggithub/workhub)">workhub</a> and <a href="[https://adam-mcdaniel.github.io/sage-website](https://github.com/Amarusinggithub/Notetify)">Notetify</a></li>
+
 </ul>
 </div>
 
