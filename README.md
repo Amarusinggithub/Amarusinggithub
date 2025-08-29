@@ -19,6 +19,20 @@ Here are some ideas to get you started:
 
 ### I am a skilled Software Engineer with experience in designing and building web and mobile applications.
 
+
+<br>
+
+<div align="center">
+  <a href="amarcampbell75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/amar-campbel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
 # 🔤 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,go,c,cs,cpp,dart" />
