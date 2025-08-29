@@ -1,4 +1,4 @@
-### Hello! I'm [Amar](https://Amarusinggithub.github.io). <a href="https://Amarusinggithub.github.io"><img src="assets/wave.gif" width="20px" height="20px" /></a>
+### Hello! I'm [Amar](https://amar-campbell.github.io). <a href="https://amar-campbell.github.io"><img src="assets/wave.gif" width="20px" height="20px" /></a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+!!;Check+out+my+projects+!!" alt="Typing SVG" /></a>
