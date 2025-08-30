@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### About Me👨‍💻
 <div align="left">
 
-<p> I am currently student studying Computer Science at the University of Technology, Jamaica. I aspire to become a very skilled  Software Engineer with experience in designing and building web and mobile applications.</p>
+<p> I am currently a student studying Computer Science at the University of Technology, Jamaica. I aspire to become a very skilled  Software Engineer with experience in designing and building web and mobile applications.</p>
 <ul>
 
   <li> 📫 How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
