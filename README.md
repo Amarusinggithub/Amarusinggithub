@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs,cpp" />
 </p>
 
-# 🛠️ Tools & Technologies
+#Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest,vercel,windows,androidstudio" />
 </p>
