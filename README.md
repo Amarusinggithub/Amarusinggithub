@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-# 🔤 Programming Languages
+# Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs,cpp" />
 </p>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## ⚡️ Stats
+## Stats
 
 <br>
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <hr>
 
 
-## 🐍 My Contributions
+## My Contributions
 
 <div align="center">
   <picture>
