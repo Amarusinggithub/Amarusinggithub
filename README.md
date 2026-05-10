@@ -47,23 +47,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-# Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,php,c,cs,cpp" />
-</p>
-
-#Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nextjs,vue,laravel,dotnet,flutter,mysql,postgres,prisma,redis,html,css,tailwind,docker,kubernetes,aws,nginx,git,npm,postman,figma,visualstudio,vscode,cypress,vitest,vercel,windows,androidstudio" />
-</p>
-
-<div align="center">
-  
-  *Building robust applications with modern technologies*
-  
-</div>
-
-
 ## Stats
 
 <br>
