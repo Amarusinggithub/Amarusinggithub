@@ -8,7 +8,7 @@
 ## About Me
 <div align="left">
 
-<p> I studying BS in Computer Science at the University of Technology, Jamaica. </p>
+<p> I studying BSc in Computer Science at the University of Technology, Jamaica. I aspire to become a very skilled  Software Engineer with experience in designing, building and deploying web  and machine learning applications.</p>
 <ul>
 
   <li>  How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
