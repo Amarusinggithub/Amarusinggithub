@@ -5,7 +5,7 @@
 
 ---
 
-#### About Me
+## About Me
 <div align="left">
 
 <p> I am currently a student studying Computer Science at the University of Technology, Jamaica. I aspire to become a very skilled  Software Engineer with experience in designing, building and deploying web  and machine learning applications.</p>
@@ -13,20 +13,13 @@
 
   <li>  How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
   <li>  Learn about my experiences on my <a href="https://github.com/Amarusinggithub/resume">resume</a></li>
+  <li>  This is my linkedin to reach me <a href="https://www.linkedin.com/in/amar-campbell-054345233">Linkedin</a></li>
   <li>  I’m currently working on <a href="[https://adam-mcdaniel.github.io/blog/compiler-shell-text-editor-trifecta/](https://github.com/Amarusinggithub/workhub)">workhub</a> and <a href="[https://adam-mcdaniel.github.io/sage-website](https://github.com/Amarusinggithub/Notetify)">Notetify</a></li>
 
 </ul>
 </div>
 
 <br>
-
-<div align="center">
- 
-  <a href="https://www.linkedin.com/in/amar-campbell-054345233" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 
 <hr>
 
