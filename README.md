@@ -13,7 +13,7 @@
   <li>  How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
   <li>  Learn about my experiences on my <a href="https://github.com/Amarusinggithub/resume">resume</a></li>
   <li>  This is my <a href="https://www.linkedin.com/in/amar-campbell-054345233">linkedin</a></li>
-  <li>  I’m currently working on <a href="https://github.com/Amarusinggithub/workhub">workhub</a> and <a href="https://github.com/Amarusinggithub/Notetify">Notetify</a></li>
+  <li>  I’m currently working on <a href="https://github.com/Amarusinggithub/Notetify">Notetify</a> and <a href="https://github.com/Amarusinggithub/workhub">workhub</a></li>
   <li>  Project I am proud of: <a href="https://github.com/Amarusinggithub/southeastcon26_04_utechiee">southeastcon26_04_utechiee</a></li>
 </ul>
 </div>
