@@ -10,7 +10,6 @@
 
 <p> I studying BSc in Computer Science at the University of Technology, Jamaica. I aspire to become a very skilled  Software Engineer with experience in designing, building and deploying web  and machine learning applications.</p>
 <ul>
-  <li>  How to reach me: <a href="mailto:amarcampbell75@gmail.com">email me</a></li>
   <li>  Learn about my experiences on my <a href="https://github.com/Amarusinggithub/resume">resume</a></li>
   <li>  This is my <a href="https://www.linkedin.com/in/amar-campbell-054345233">linkedin</a></li>
   <li>  I’m currently working on <a href="https://github.com/Amarusinggithub/Notetify">Notetify</a> and <a href="https://github.com/Amarusinggithub/workhub">workhub</a></li>
